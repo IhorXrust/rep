@@ -1,3 +1,3 @@
 Hello world.....
 It's a lovely day!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Other things.
+Other things.New line by user2
