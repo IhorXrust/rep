@@ -1,3 +1,5 @@
 Hello world.....
 It's a lovely day!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Other things.New line by user2
+add some feature by user2
+
